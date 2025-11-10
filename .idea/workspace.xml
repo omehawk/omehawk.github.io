@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c6e668f-127e-46e3-ac03-d8bdc7a0d564" name="Changes" comment="5th version" />
+    <list default="true" id="5c6e668f-127e-46e3-ac03-d8bdc7a0d564" name="Changes" comment="6th version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +56,7 @@
       <updated>1762341535455</updated>
       <workItem from="1762341536493" duration="354000" />
       <workItem from="1762765871618" duration="421000" />
-      <workItem from="1762766692273" duration="1074000" />
+      <workItem from="1762766692273" duration="1145000" />
     </task>
     <task id="LOCAL-00001" summary="Third version">
       <option name="closed" value="true" />
@@ -98,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762766906587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="wipe">
+      <option name="closed" value="true" />
+      <created>1762768600142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762768600142</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6th version">
+      <option name="closed" value="true" />
+      <created>1762768652279</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762768652279</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,8 +134,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Third version" />
     <MESSAGE value="4th version" />
-    <MESSAGE value="wipe" />
     <MESSAGE value="5th version" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th version" />
+    <MESSAGE value="wipe" />
+    <MESSAGE value="6th version" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th version" />
   </component>
 </project>
